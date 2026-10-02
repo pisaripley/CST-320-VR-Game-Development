@@ -1,0 +1,31 @@
+# Unity regenerates these folders when the project opens.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Generated IDE files and local editor settings.
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.suo
+*.pidb
+*.booproj
+*.unityproj
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# Local crash reports.
+sysinfo.txt
+*.stackdump
