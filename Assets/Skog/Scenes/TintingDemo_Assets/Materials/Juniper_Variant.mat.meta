@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c626b750330f7d141bee268eec6acd1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Scenes/TintingDemo_Assets/Materials/Juniper_Variant.mat
+  uploadId: 828730

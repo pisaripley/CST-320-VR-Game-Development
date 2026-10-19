@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc36bfbd6a5d7164f87c1c9f8f187a0a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Prefabs/Bush/Materials/BushBranch_Color.mat
+  uploadId: 828730

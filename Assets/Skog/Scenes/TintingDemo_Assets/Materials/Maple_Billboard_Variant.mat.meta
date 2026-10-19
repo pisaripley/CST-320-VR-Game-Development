@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5d5d252c2e7d40408016b04a9606e42
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Scenes/TintingDemo_Assets/Materials/Maple_Billboard_Variant.mat
+  uploadId: 828730

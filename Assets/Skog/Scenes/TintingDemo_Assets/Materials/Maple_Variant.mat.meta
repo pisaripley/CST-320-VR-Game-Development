@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3dc0827db5445b4439bd56b1b27e5429
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Scenes/TintingDemo_Assets/Materials/Maple_Variant.mat
+  uploadId: 828730

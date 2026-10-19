@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44eff1f87c733734f82fee3af9eb4f47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Scripts/GPUInstancingDemo.cs
+  uploadId: 828730

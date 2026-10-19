@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd11ca77335625e4fa1c96f70ad7af40
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Particles/Materials/MapleLeaf_Mat.mat
+  uploadId: 828730

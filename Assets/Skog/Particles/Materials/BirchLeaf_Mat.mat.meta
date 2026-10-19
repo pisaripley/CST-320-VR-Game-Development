@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af11c4e558e2ab047b7910beb39afd96
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Particles/Materials/BirchLeaf_Mat.mat
+  uploadId: 828730

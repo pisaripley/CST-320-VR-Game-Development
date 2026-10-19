@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e23574a4b9dc0d479c961a0a5a499e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Prefabs/Mushrooms/Materials/Mushrooms.mat
+  uploadId: 828730

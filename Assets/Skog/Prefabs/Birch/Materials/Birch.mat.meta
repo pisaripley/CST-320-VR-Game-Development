@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6adc6ef109e83c44fbe98302cc8f836b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Prefabs/Birch/Materials/Birch.mat
+  uploadId: 828730

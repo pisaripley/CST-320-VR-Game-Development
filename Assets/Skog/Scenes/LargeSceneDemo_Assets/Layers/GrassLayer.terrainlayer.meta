@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4b3b936cf762cc44b120dd223f7ac2b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Scenes/LargeSceneDemo_Assets/Layers/GrassLayer.terrainlayer
+  uploadId: 828730

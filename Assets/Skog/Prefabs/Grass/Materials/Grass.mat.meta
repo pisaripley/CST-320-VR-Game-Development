@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7327347978c2434d83c441cc2e861e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Prefabs/Grass/Materials/Grass.mat
+  uploadId: 828730

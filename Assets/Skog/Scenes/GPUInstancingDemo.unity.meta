@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f601835c4a2f6a43aa1ee6b06e6056c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Scenes/GPUInstancingDemo.unity
+  uploadId: 828730

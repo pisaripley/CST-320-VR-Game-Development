@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31f6ea8f92436c646853af0e4d3c51f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Scenes/TintingDemo_Assets/TintingDemo_Terrain.asset
+  uploadId: 828730

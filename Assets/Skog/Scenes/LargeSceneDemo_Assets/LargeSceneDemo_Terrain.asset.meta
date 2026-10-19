@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb9f6dc3b84259649b614fbde7c75771
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Scenes/LargeSceneDemo_Assets/LargeSceneDemo_Terrain.asset
+  uploadId: 828730

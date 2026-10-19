@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2841806e011b96f4f8736a26f38b6b80
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Shaders/SubGraphs/Wind.shadersubgraph
+  uploadId: 828730

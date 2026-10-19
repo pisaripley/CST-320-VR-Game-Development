@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fef384ffb8c9ed4fb221867c025eeab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Scenes/TintingDemo_Assets/Materials/Conifers_Billboard_Variant.mat
+  uploadId: 828730

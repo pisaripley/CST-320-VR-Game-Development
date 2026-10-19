@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa1226b79e96aa84897ae06341c91fe6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 348442
+  packageName: 'Skog: Temperate'
+  packageVersion: 1.0
+  assetPath: Assets/Skog/Prefabs/Maple/Materials/Maple_Billboard.mat
+  uploadId: 828730
