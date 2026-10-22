@@ -825,6 +825,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046084362336760568, guid: fc355525a1ddd9f439206b1fa61517fd, type: 3}
+      propertyPath: m_Convex
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1774,10 +1778,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d29619bda7c70e0409904e8b1ea734d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: 300
-  moveSpeed: 500
-  speedAdjustmentFactor: 100
-  smoothSpeed: 0.01
 --- !u!114 &963194232
 MonoBehaviour:
   m_ObjectHideFlags: 0
